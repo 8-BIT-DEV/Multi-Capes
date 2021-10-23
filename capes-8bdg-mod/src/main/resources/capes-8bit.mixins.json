@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "net.capes.mixins",
+  "compatibilityLevel": "JAVA_16",
+  "mixins": [
+  ],
+  "client": [
+  	"HandleCape"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

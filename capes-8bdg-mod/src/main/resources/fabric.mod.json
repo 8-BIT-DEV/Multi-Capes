@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "id": "capes-8bit",
+  "version": "${version}",
+
+  "name": "oldroots Cape Mod",
+  "description": "Adds capes from NameMC PLUS and 8BITDEVGAMES",
+  "authors": [
+    "oldroots AKA 8BITDEV"
+  ],
+  "contact": {
+    "homepage": "https://capes.8bitdevgames.com",
+    "sources": "https://github.com/8-BIT-DEV/Multi-Capes"
+  },
+
+  "license": "CC0-1.0",
+  "icon": "assets/capes/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "net.capes.CapeStart"
+    ]
+  },
+  "mixins": [
+    "capes-8bit.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.11.3",
+    "fabric": "*",
+    "minecraft": "1.17.x",
+    "java": ">=16"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}

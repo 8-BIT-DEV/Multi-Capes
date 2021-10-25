@@ -3,7 +3,7 @@
   "id": "capes-8bit",
   "version": "${version}",
 
-  "name": "oldroots Cape Mod",
+  "name": "Multi-Capes",
   "description": "Adds capes from NameMC PLUS and 8BITDEVGAMES",
   "authors": [
     "oldroots AKA 8BITDEV"
@@ -28,8 +28,7 @@
 
   "depends": {
     "fabricloader": ">=0.11.3",
-    "fabric": "*",
-    "minecraft": "1.17.x",
+    "minecraft": "*",
     "java": ">=16"
   },
   "suggests": {

@@ -2,7 +2,7 @@
 A mod that adds NMCP and 8BDG capes to the game of minecraft
 
 # Wearing your cape
-To see your NMCP cape in game you'll need to go to [the website](http://capes.8bitdevgames.com) and login. If you have never logged in before just type your minecraft username you'll be given A auto generated password. Use this password to login to the cape management account. You should change the password now. After your password is change you may select A cape to wear. Below is cape levels.
+To see your NMCP cape in game you'll need to go to [the website](https://capes.8bitdevgames.com) and login. If you have never logged in before just type your minecraft username you'll be given A auto generated password. Use this password to login to the cape management account. You should change the password now. After your password is change you may select A cape to wear. Below is cape levels.
 ### NMCP > 8BDG > MOJANG
 If you claimed your cape management account before 12:00AM Oct 24th. You get A 8BDG cape called early-bird.
 

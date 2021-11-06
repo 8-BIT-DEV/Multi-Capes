@@ -30,7 +30,7 @@ public class CapeGet {
 		
 		CapeStart.LOGGER.info("Player: " + name + " has UUID: ");
 		
-		URL url = new URL("http://capes.8bitdevgames.com/cape/?user=" + uuidno);
+		URL url = new URL("https://multicape.com/cape/?user=" + uuidno);
 		NativeImage capetex = NativeImage.read(url.openStream());
 		NativeImageBackedTexture cape = new NativeImageBackedTexture(capetex);
 		Identifier capeid = MinecraftClient.getInstance().getTextureManager().registerDynamicTexture("cape_" + profile.getName().toLowerCase(), cape);
